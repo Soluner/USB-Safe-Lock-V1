@@ -12,5 +12,7 @@ The program detects 6 diffrent methods for locking the user out of the computer.
 - The File Type (Fat32, NVME, ect.) is Changed
 - Any other error occures within the code or process of getting the USB data
 
+![UUTPG](User-Using-USB.gif)
+
 ## Known Issues
 - There is not a current way to safely exit the program from the lock screen other than restarting the System
